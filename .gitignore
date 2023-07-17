@@ -2,4 +2,4 @@ venv/
 remoteUrl.txt
 config.py
 .env
-_pychache_/
+__pycache__/
