@@ -1,0 +1,5 @@
+venv/
+remoteUrl.txt
+config.py
+.env
+_pychache_/
